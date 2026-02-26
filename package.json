@@ -86,6 +86,7 @@
 		"eslint": "^9.39.2",
 		"express": "^5.2.1",
 		"feedme": "^2.0.2",
+		"googleapis": "^171.4.0",
 		"helmet": "^8.1.0",
 		"html-to-text": "^9.0.5",
 		"iconv-lite": "^0.7.1",
